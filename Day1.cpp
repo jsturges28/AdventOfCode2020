@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Advent of Code
+//  Advent of Code Day 1
 //
 //  Created by Chaos Zero on 12/1/20.
 //
